@@ -37,9 +37,7 @@ Here is a report outlining the components and features of Microsoft Purview, alo
 
 2. Microsoft Virtual Training Days - Implement Data Security with Microsoft Purview - 2 days
 
-3. YouTube - Video Playlist 
-
-[Peter Rising Microsoft MVP - SC-400 Playlist](https://www.youtube.com/playlist?list=PL9f-PbmksakACxw-D4ZSTav-Gl-uMBmVZ)
+3. YouTube - Video Playlist [Peter Rising Microsoft MVP - SC-400 Playlist](https://www.youtube.com/playlist?list=PL9f-PbmksakACxw-D4ZSTav-Gl-uMBmVZ)
 
 
 ### Learning Path (Paid)
