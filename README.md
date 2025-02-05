@@ -28,7 +28,7 @@ Here is a report outlining the components and features of Microsoft Purview, alo
 
 ### Unlocking Microsoft Purview  Capabilities (Microsoft 365) – A Visual Guide!
 
-[Microsoft Purview 101 -  Capabilities (Azure)](<04 Microsoft Purview - Capabilites - M365.pdf>)
+[Microsoft Purview 101 -  Capabilities (Microsoft 365)](<04 Microsoft Purview - Capabilites - M365.pdf>)
 
 
 ### Learning Path 
