@@ -1,4 +1,4 @@
-# Microsof tSecurity
+# Microsoft Security
 Microsoft Security slides and webinars
 Here is a report outlining the components and features of Microsoft Purview, along with their type of data protection, whether they belong to Azure Purview or Microsoft 365 Purview. 
 
