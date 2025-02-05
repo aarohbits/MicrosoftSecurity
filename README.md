@@ -46,8 +46,12 @@ Here is a report outlining the components and features of Microsoft Purview, alo
 
 2. Pluralsight [Microsoft Information Protection and Compliance Administrator (SC-400)](https://app.pluralsight.com/paths/certificate/microsoft-information-protection-administrator-sc-400)
 
-### Microsoft Purview Licensing 
+### Office Microsoft Purview documenation 
 
+1. For a comprehensive overview of Microsoft Purview features and licensing details, you can refer to the official Microsoft Purview service description [Microsoft Purview service description](https://learn.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-purview-service-description)
+
+
+2. Please note that licensing terms and included features are subject to change. It's advisable to consult with a Microsoft representative or authorized partner to obtain the most current information tailored to your organization's needs.
 
 
 
