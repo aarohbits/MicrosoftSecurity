@@ -31,7 +31,11 @@ Here is a report outlining the components and features of Microsoft Purview, alo
 [Microsoft Purview 101 -  Capabilities (Microsoft 365)](<04 Microsoft Purview - Capabilites - M365.pdf>)
 
 
-### Learning Path 
+### Learning Path (Free)
+
+1. [SC-400: Monitor and investigate data and activities by using Microsoft Purview](https://learn.microsoft.com/en-us/training/paths/m365-monitor-investigate-activities-microsoft-purview/)
+
+2. 
 
 ### Microsoft Purview Licensing 
 
