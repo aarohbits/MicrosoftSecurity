@@ -33,9 +33,20 @@ Here is a report outlining the components and features of Microsoft Purview, alo
 
 ### Learning Path (Free)
 
-1. [SC-400: Monitor and investigate data and activities by using Microsoft Purview](https://learn.microsoft.com/en-us/training/paths/m365-monitor-investigate-activities-microsoft-purview/)
+1. [SC-400: Monitor and investigate data and activities by using Microsoft Purview - Reading](https://learn.microsoft.com/en-us/training/paths/m365-monitor-investigate-activities-microsoft-purview/)
 
-2. 
+2. Microsoft Virtual Training Days - Implement Data Security with Microsoft Purview - 2 days
+
+3. YouTube - Video Playlist 
+
+[Peter Rising Microsoft MVP - SC-400 Playlist](https://www.youtube.com/playlist?list=PL9f-PbmksakACxw-D4ZSTav-Gl-uMBmVZ)
+
+
+### Learning Path (Paid)
+
+1. Udemy - [SC-400 Course Microsoft Information Protection Administrator](https://www.udemy.com/course/sc-400-course-microsoft-information-protection-administrator/)
+
+2. Pluralsight [Microsoft Information Protection and Compliance Administrator (SC-400)](https://app.pluralsight.com/paths/certificate/microsoft-information-protection-administrator-sc-400)
 
 ### Microsoft Purview Licensing 
 
